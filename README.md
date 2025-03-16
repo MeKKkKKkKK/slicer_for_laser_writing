@@ -15,7 +15,7 @@ version 0.9
 ### 3. slice view
 ![slice view](slice.png)
 
-### 2. G-Code view
+### 4. G-Code view
 ![G-Code view](gcode.png)
 
 

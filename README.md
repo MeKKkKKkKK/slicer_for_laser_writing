@@ -4,16 +4,20 @@ version 0.9
 
 3D slice software for laser_direct_writing
 
-## 软件界面展示
+## software PRE
 
-### 1. 主界面
-![主界面](界面.png)
+### 1. Main interface
+![Main interface](界面.png)
 
-### 2. G-Code 视图
-![G-Code 视图](gcode view.png)
+### 2. model topview
+![model topview](model.png)
 
-### 3. 模型俯视图
-![模型俯视图](model topview.png)
+### 3. slice view
+![slice view](slice.png)
 
-### 4. 切片视图
-![切片视图](slice view.png)
+### 2. G-Code view
+![G-Code view](gcode.png)
+
+
+
+
